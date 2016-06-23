@@ -6,8 +6,8 @@ A crawler base on NodeJs to crawli all replay text in one post of http://tieba.b
 Cheerio, Bluebird
 
 #Usage 用法
-1.Install NodeJs安装NodeJs
-2.Choose a directory as your working directory to put your modules选择一个目录作为项目目录来存放依赖模块
-3.Install dependency module via commmand line. 用命令行打开项目目录，输入命令[code]npm install bluebird cheerio[/code]
-4.Open this js file and edit the url. 打开js文件输入要爬取的url.
-5.Run. 使用命令[code]node pachong.promise.done.js[/code]
+1.  Install NodeJs安装NodeJs
+2.  Choose a directory as your working directory to put your modules选择一个目录作为项目目录来存放依赖模块
+3.  Install dependency module via commmand line. 用命令行打开项目目录，输入命令[code]npm install bluebird cheerio[/code]
+4.  Open this js file and edit the url. 打开js文件输入要爬取的url.
+5.  Run. 使用命令[code]node pachong.promise.done.js[/code]
