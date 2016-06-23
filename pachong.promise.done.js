@@ -7,12 +7,6 @@ var fs=require("fs");
 var http = require('http');
 
 
-var url = 'http://tieba.baidu.com/p/4580331056?see_lz=1';//篮球小哥
- 
-// var url =  "http://tieba.baidu.com/p/4445031457?see_lz=1";//修恩爱
- 
-//var url="http://tieba.baidu.com/p/4338869559?see_lz=1"//水世界
-
 http.get(url, function(res) {
     var html = ""
     res.on("data", function(data) {
