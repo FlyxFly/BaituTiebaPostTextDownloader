@@ -5,13 +5,14 @@ This script can save a post on http://tieba.baidu.com into a txt file. You can c
 #Dependencies依赖库
 Cheerio, Bluebird
 
-#Usage 用法
-1.安装[NodeJs](https://nodejs.org/zh-cn/)。
-2.选择一个目录作为项目目录来存放依赖模块。
-3.用命令行打开项目目录，输入命令`npm install bluebird cheerio`。
-4.打开js文件输入要保存的帖子地址。
-5.使用node运行该脚本`node get_tieba_text.js`。
+# 用法
+1. 安装[NodeJs](https://nodejs.org/zh-cn/)。
+2. 选择一个目录作为项目目录来存放依赖模块。
+3. 用命令行打开项目目录，输入命令`npm install bluebird cheerio`。
+4. 打开js文件输入要保存的帖子地址。
+5. 使用node运行该脚本`node get_tieba_text.js`。
 
+#Usage
 1.  Install [NodeJs](https://nodejs.org/zh-cn/).
 2.  Choose a directory as your working directory to put your modules.
 3.  Install dependency module via commmand line`npm install bluebird cheerio`. 
